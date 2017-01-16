@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lumisens2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab3_textview">hello Tab 3</string>
+    <string name="title_section1">Time Settings</string>
+    <string name="title_section2">Tab 2</string>
+    <string name="title_section3">Tab 3</string>
+    <string name="verticalSwitch">Vertical Switch</string>
+    <string name="pick_time">Set Time</string>
+    <string name="pick_date">Set Date</string>
+    <string name="colorPassedHourLabel">Passed Hours Color</string>
+    <string name="colorComingHourLabel">Coming Hour Color</string>
+    <string name="colorTransitionLabel">Transition Color</string>
+</resources>
