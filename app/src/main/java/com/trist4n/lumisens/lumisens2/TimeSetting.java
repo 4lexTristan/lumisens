@@ -38,9 +38,11 @@ public class TimeSetting extends Fragment {
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
                 if (b){
                     //Log.d(TAG, "send : Z");
+                    BluetoothService.write("Z");
                     //communicationThread.write("Z");
                 }else{
                     //Log.d(TAG, "send : Z");
+                    BluetoothService.write("Z");
                     //communicationThread.write("Z");
                 }
             }

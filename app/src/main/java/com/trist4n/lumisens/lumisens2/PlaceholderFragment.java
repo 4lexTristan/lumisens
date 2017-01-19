@@ -20,6 +20,7 @@ public class PlaceholderFragment extends Fragment {
      * fragment.
      */
     private static final String ARG_SECTION_NUMBER = "section_number";
+    public static final String TAG = "PlaceholderFragment";
 
     public PlaceholderFragment() {
     }

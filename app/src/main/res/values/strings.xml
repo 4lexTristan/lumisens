@@ -4,7 +4,7 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="tab3_textview">hello Tab 3</string>
     <string name="title_section1">Time Settings</string>
-    <string name="title_section2">Tab 2</string>
+    <string name="title_section2">Color Settings</string>
     <string name="title_section3">Tab 3</string>
     <string name="verticalSwitch">Vertical Switch</string>
     <string name="pick_time">Set Time</string>
@@ -12,4 +12,19 @@
     <string name="colorPassedHourLabel">Passed Hours Color</string>
     <string name="colorComingHourLabel">Coming Hour Color</string>
     <string name="colorTransitionLabel">Transition Color</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="not_connected">You are not connected to a device</string>
 </resources>

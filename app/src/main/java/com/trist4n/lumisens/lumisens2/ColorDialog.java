@@ -16,6 +16,7 @@ public class ColorDialog{
     public static int transitionColor = 0xFF000000;
     public static int lightColor;
 
+    public static final String TAG = "ColorDialog";
     private Context activityContext;
 
     public ColorDialog(Context activity){

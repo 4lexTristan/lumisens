@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 
 public class Tab3 extends Fragment {
     private static final String ARG_SECTION_NUMBER = "section_number";
+    public static final String TAG = "tab3";
 
     public static Tab3 newInstance(int sectionNumber) {
         Tab3 fragment = new Tab3();
